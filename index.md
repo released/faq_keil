@@ -168,7 +168,7 @@ make sure
 
 * __step 6 : How to jump to function prototype__
 
-- Right clock function name and select , 
+- Right click function name and select , 
     - Go To Definition Of xxx 
 
 ![](img/entry_debug_017.jpg)
@@ -181,7 +181,7 @@ make sure
 
 <a id="watch_window"></a>
 
-# # How to monitor variables/structure in watch window
+# How to monitor variables/structure in watch window
 
 * __step 1 : check KEIL setting__ 
 
