@@ -123,7 +123,7 @@ make sure
 ![](img/entry_debug_005.jpg)
 
 
-- Option for Target > Debug > Select , 
+- Option for Target > Utilities > Select , 
     - Settings
 
 make sure 
@@ -144,12 +144,12 @@ make sure
 ![](img/entry_debug_008.jpg)
 
 
-* __step 5 : will stop at main__
+* __step 4 : will stop at main__
 
 ![](img/entry_debug_009.jpg)
 
 
-* __step 6 : some debug mode function__
+* __step 5 : some debug mode function__
 
 - press Run , to start code process
 
@@ -166,7 +166,7 @@ make sure
 ![](img/entry_debug_012.jpg)
 
 
-* __step 7 : How to jump to function prototype__
+* __step 6 : How to jump to function prototype__
 
 - Right clock function name and select , 
     - Go To Definition Of xxx 
