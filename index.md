@@ -113,6 +113,7 @@ make sure
 
 - Reset Options > Connect > Select , 
     - ==Connect : Under Reset==
+    - purpose : KEIL will be able to reset MCU with nRESET pin __before__ entry debug mode
 
 ![](img/entry_debug_004.jpg)
 
@@ -130,6 +131,7 @@ make sure
 
 - Download Function > Select ,  
     - ==Reset and Run==
+    - KEIL will be aboe to reset MCU __after__ update MCU firmware 
 
 ![](img/entry_debug_006.jpg)
 
