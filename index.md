@@ -131,7 +131,7 @@ make sure
 
 - Download Function > Select ,  
     - ==Reset and Run==
-    - KEIL will be aboe to reset MCU __after__ update MCU firmware 
+    - KEIL will be able to reset MCU __after__ update MCU firmware 
 
 ![](img/entry_debug_006.jpg)
 
