@@ -100,9 +100,7 @@ NuMicro_ISP_Programming_Tool\User Manual\UM_ISP_Programming_Tool_Rev*.**.pdf
 
 - Option for Target > Debug > Select , 
     - Settings
-
-
-Update Nu-Link firmware , if the Nu-Link firmware version not same as KEIL driver 
+    - Update Nu-Link firmware , if the Nu-Link firmware version not same as KEIL driver 
 
 ![](img/entry_debug_003.jpg)
 
