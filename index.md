@@ -1,9 +1,21 @@
 
-[return to index](https://released.github.io/)
+[回到知識庫總索引](https://released.github.io/)
 
 <a id="article_top"></a>
 
 # FAQ (IDE-KEIL)
+
+> 整理 Keil MDK 搭配 Nu-Link 的 driver 安裝、進入 debug mode 與 Watch Window 操作。開始排查前，請先記錄 MCU 型號、Keil 版本、Nu-Link firmware 與完整錯誤訊息。
+
+## 快速診斷流程
+
+```mermaid
+flowchart LR
+    DRIVER["更新 Nu-Link / Device Driver"] --> CONNECT["確認 Debug Adapter 與 Target Power"]
+    CONNECT --> BUILD["確認 Device / Scatter / Build"]
+    BUILD --> DEBUG["進入 Debug Mode"]
+    DEBUG --> WATCH["Watch / Register / Memory 驗證"]
+```
 
 * [Necessary driver install](#common_driver)
 
